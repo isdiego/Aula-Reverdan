@@ -1,0 +1,9 @@
+c:\users\d3840a4\documents\visual studio 2012\Projects\TemperaturaDSNoite\TemperaturaDSNoite\bin\Debug\TemperaturaDSNoite.exe.config
+c:\users\d3840a4\documents\visual studio 2012\Projects\TemperaturaDSNoite\TemperaturaDSNoite\bin\Debug\TemperaturaDSNoite.exe
+c:\users\d3840a4\documents\visual studio 2012\Projects\TemperaturaDSNoite\TemperaturaDSNoite\bin\Debug\TemperaturaDSNoite.pdb
+c:\users\d3840a4\documents\visual studio 2012\Projects\TemperaturaDSNoite\TemperaturaDSNoite\obj\Debug\TemperaturaDSNoite.csprojResolveAssemblyReference.cache
+c:\users\d3840a4\documents\visual studio 2012\Projects\TemperaturaDSNoite\TemperaturaDSNoite\obj\Debug\TemperaturaDSNoite.Properties.Resources.resources
+c:\users\d3840a4\documents\visual studio 2012\Projects\TemperaturaDSNoite\TemperaturaDSNoite\obj\Debug\TemperaturaDSNoite.csproj.GenerateResource.Cache
+c:\users\d3840a4\documents\visual studio 2012\Projects\TemperaturaDSNoite\TemperaturaDSNoite\obj\Debug\TemperaturaDSNoite.exe
+c:\users\d3840a4\documents\visual studio 2012\Projects\TemperaturaDSNoite\TemperaturaDSNoite\obj\Debug\TemperaturaDSNoite.pdb
+c:\users\d3840a4\documents\visual studio 2012\Projects\TemperaturaDSNoite\TemperaturaDSNoite\obj\Debug\TemperaturaDSNoite.frmPrincipal.resources
